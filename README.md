@@ -1,6 +1,6 @@
 # whatsapp art consultant
 
-a whatsapp bot running through twillio server leveraging openai api and a customisable personality description (in this case, a pretentious art consultant)
+sandbox for a whatsapp bot running through twillio server leveraging openai api and a customisable personality description (in this case, a pretentious art consultant)
 
 could be further enhanced by connecting to various apis (e.g. sotheby's) to ensure live data scraping and increase real time relevance with art world news and trends
 
