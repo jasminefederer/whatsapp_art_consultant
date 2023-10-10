@@ -4,7 +4,7 @@ sandbox for a whatsapp bot running through twillio server leveraging openai api 
 
 could be further enhanced by connecting to various apis (e.g. sotheby's) to ensure live data scraping and increase real time relevance with art world news and trends
 
-must include an (gitignore) .env file containing the following:
+must include a (gitignore) .env file containing the following:
 
 DB_USER=
 
